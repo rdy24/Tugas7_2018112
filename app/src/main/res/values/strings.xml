@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Health Care</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="subjudul">
+        <item>Covid 19 Was The Worst Pandemic In The History Of The World</item>
+        <item>Getting The Upper Hand On Asthma Allergy</item>
+        <item>How to get rid of your acne</item>
+        <item>The Different Types Of Laser Eye Surgery</item>
+        <item>Skin Cancer Prevention 5 Ways To Protect Yourself </item>
+    </string-array>
+    <string-array name="tanggal">
+        <item>Dec 22, 2022</item>
+        <item>Dec 20, 2023</item>
+        <item>Nov 21, 2023</item>
+        <item>Jan 23, 2020</item>
+        <item>Dec 24, 2022</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
