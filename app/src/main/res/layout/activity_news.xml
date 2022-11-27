@@ -94,6 +94,7 @@
                         android:background="@drawable/rounded_corner"
                         android:text="Newest"
                         android:textColor="@color/white"
+                        android:id="@+id/btnNewest"
                         android:layout_marginRight="5dp" />
                     <Button
                         android:layout_width="110dp"
@@ -101,12 +102,14 @@
                         android:background="@drawable/rounded_corner"
                         android:text="Health"
                         android:textColor="@color/white"
+                        android:id="@+id/btnHealth"
                         android:layout_marginHorizontal="5dp" />
                     <Button
                         android:layout_width="110dp"
                         android:layout_height="wrap_content"
                         android:background="@drawable/rounded_corner"
                         android:text="Diet"
+                        android:id="@+id/btnDiet"
                         android:layout_marginHorizontal="5dp" />
                 </LinearLayout>
                 <LinearLayout
